@@ -1,0 +1,45 @@
+.wp-login-ajax-login-wrap,
+.wp-login-ajax-invoices {
+    border: 1px solid #eee;
+    padding: 30px 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.07);
+    min-height: 231px;
+}
+.wp-login-ajax-login-wrap form label {
+    font-size: 15px;
+    font-weight: normal;
+}
+.wp-login-ajax-login-wrap form input {
+    padding: 10px;
+    border-radius: 3px;
+}
+.wp-login-ajax-login-wrap form input[type="submit"] {
+    padding: 8px 10px;
+    font-size: 13px;
+    background: #000;
+}
+.wp-login-ajax-login-wrap form a.lost {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #444;
+}
+.wp-login-ajax-login-wrap .avatar {
+    text-align: center;
+}
+.wp-login-ajax-login-wrap .user-name {
+    margin-top: 20px;
+    font-weight: 400;
+}
+.wp-login-ajax-login-wrap .login-btns {
+    text-align: center;
+}
+.wp-login-ajax-login-wrap .login-btns a {
+    padding: 8px 10px;
+    background: #444;
+    color: #fff;
+}
+.wp-login-ajax-login-wrap .login-btns a:hover {
+    background: #000;
+}

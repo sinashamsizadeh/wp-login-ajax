@@ -1,0 +1,855 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Invoice Validator\n"
+"POT-Creation-Date: 2020-03-23 12:40+0430\n"
+"PO-Revision-Date: 2019-09-06 15:01+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: invoice-validator.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/metabox-config.php:56 admin/metabox-config.php:185
+msgid "Repeating Field Group"
+msgstr ""
+
+#: admin/metabox-config.php:60
+msgid "Customer Name"
+msgstr ""
+
+#: admin/metabox-config.php:68
+msgid "Customer National Code"
+msgstr ""
+
+#: admin/metabox-config.php:72
+msgid "This natural code is not valid"
+msgstr ""
+
+#: admin/metabox-config.php:78
+msgid "Customer VAT Number"
+msgstr ""
+
+#: admin/metabox-config.php:83
+msgid "Customer address"
+msgstr ""
+
+#: admin/metabox-config.php:88
+msgid "Customer Zip Code"
+msgstr ""
+
+#: admin/metabox-config.php:93
+msgid "Customer Phone Number"
+msgstr ""
+
+#: admin/metabox-config.php:98 admin/settings.php:54 invoice-validator.php:836
+#: invoice-validator.php:1063
+msgid "Plaque"
+msgstr ""
+
+#: admin/metabox-config.php:103 admin/settings.php:59 invoice-validator.php:852
+#: invoice-validator.php:1079
+msgid "Insurance"
+msgstr ""
+
+#: admin/metabox-config.php:111 invoice-validator.php:563
+msgid "Invoice Expire Date"
+msgstr ""
+
+#: admin/metabox-config.php:119 invoice-validator.php:910
+#: invoice-validator.php:1219
+msgid "Invoice Description"
+msgstr ""
+
+#: admin/metabox-config.php:132
+msgid "Product {#}"
+msgstr ""
+
+#: admin/metabox-config.php:133
+msgid "Add"
+msgstr ""
+
+#: admin/metabox-config.php:134 admin/vendor/cmb2/includes/CMB2_JS.php:229
+#: admin/vendor/cmb2/includes/CMB2_Types.php:406
+#: admin/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:84
+msgid "Remove"
+msgstr ""
+
+#: admin/metabox-config.php:137
+msgid "Are you sure you want to remove?"
+msgstr ""
+
+#: admin/metabox-config.php:148 invoice-validator.php:399
+#: invoice-validator.php:400 invoice-validator.php:410
+#: invoice-validator.php:970 invoice-validator.php:1193
+msgid "Product"
+msgstr ""
+
+#: admin/metabox-config.php:157 invoice-validator.php:971
+#: invoice-validator.php:1194
+msgid "Index"
+msgstr ""
+
+#: admin/metabox-config.php:165 invoice-validator.php:972
+#: invoice-validator.php:1195
+msgid "Amount"
+msgstr ""
+
+#: admin/metabox-config.php:174
+msgid "Discount(%)"
+msgstr ""
+
+#: admin/metabox-config.php:189
+msgid "Product Code"
+msgstr ""
+
+#: admin/metabox-config.php:197
+msgid "Product Price"
+msgstr ""
+
+#: admin/settings.php:15
+msgid "Invoice Validator Settings"
+msgstr ""
+
+#: admin/settings.php:24
+msgid "Company"
+msgstr ""
+
+#: admin/settings.php:29
+msgid "Vat Number"
+msgstr ""
+
+#: admin/settings.php:34 invoice-validator.php:976 invoice-validator.php:1199
+msgid "Tax"
+msgstr ""
+
+#: admin/settings.php:39
+msgid "Additional Tax"
+msgstr ""
+
+#: admin/settings.php:44
+msgid "Phone Number"
+msgstr ""
+
+#: admin/settings.php:49
+msgid "Address"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2.php:199
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2.php:603
+msgid "Click to toggle"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr ""
+
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+#: admin/vendor/cmb2/includes/CMB2_Ajax.php:189
+#: admin/vendor/cmb2/includes/helper-functions.php:107
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Base.php:422
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" "
+"parameter."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Base.php:426
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%2$s\" parameter."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Base.php:456
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Base.php:458
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Base.php:491
+#: admin/vendor/cmb2/includes/CMB2_Hookup_Base.php:102
+#: admin/vendor/cmb2/includes/CMB2_Options.php:247
+#: admin/vendor/cmb2/includes/CMB2_Options_Hookup.php:357
+#: admin/vendor/cmb2/includes/types/CMB2_Type_Base.php:173
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Base.php:509
+#: admin/vendor/cmb2/includes/types/CMB2_Type_Base.php:157
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Field.php:1415
+msgid "Add Group"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Field.php:1416
+msgid "Remove Group"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Field.php:1448
+#: admin/vendor/cmb2/includes/CMB2_Field.php:1452
+msgid "None"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Field.php:1563
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Field_Display.php:432
+#: admin/vendor/cmb2/includes/CMB2_JS.php:230
+#: admin/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:79
+msgid "File:"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Hookup_Base.php:44
+#, php-format
+msgid "%1$s should be implemented by the extended class."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:165
+#: admin/vendor/cmb2/includes/CMB2_JS.php:210
+msgid "Clear"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:166
+msgid "Default"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:167
+msgid "Select Color"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:168
+msgid "Current Color"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:200
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:201
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:202
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:203
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:204
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:205
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:206
+msgid "Next"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:207
+msgid "Prev"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:208
+msgid "Today"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:209
+#: admin/vendor/cmb2/includes/CMB2_JS.php:219
+msgid "Done"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:213
+msgid "Choose Time"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:214
+msgid "Time"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:215
+msgid "Hour"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:216
+msgid "Minute"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:217
+msgid "Second"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:218
+msgid "Now"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:220
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:226
+msgid "Use this file"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:227
+msgid "Use these files"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:228
+#: admin/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:64
+msgid "Remove Image"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:231
+#: admin/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:82
+msgid "Download"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_JS.php:232
+msgid "Select / Deselect All"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Options_Hookup.php:139
+msgid "Nothing to update."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Options_Hookup.php:143
+msgid "Settings updated."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Types.php:226
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Types.php:344
+msgid "Add Row"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_Types.php:406
+msgid "Remove Row"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_hookup.php:182
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_hookup.php:186
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/CMB2_hookup.php:466
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/helper-functions.php:307
+msgid "Save"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#. translators: %s: register_routes()
+#: admin/vendor/cmb2/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/shim/WP_REST_Controller.php:35
+#: admin/vendor/cmb2/includes/shim/WP_REST_Controller.php:47
+#: admin/vendor/cmb2/includes/shim/WP_REST_Controller.php:59
+#: admin/vendor/cmb2/includes/shim/WP_REST_Controller.php:71
+#: admin/vendor/cmb2/includes/shim/WP_REST_Controller.php:83
+#: admin/vendor/cmb2/includes/shim/WP_REST_Controller.php:95
+#: admin/vendor/cmb2/includes/shim/WP_REST_Controller.php:107
+#: admin/vendor/cmb2/includes/shim/WP_REST_Controller.php:119
+#: admin/vendor/cmb2/includes/shim/WP_REST_Controller.php:131
+#: admin/vendor/cmb2/includes/shim/WP_REST_Controller.php:143
+#: admin/vendor/cmb2/includes/shim/WP_REST_Controller.php:155
+#: admin/vendor/cmb2/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/shim/WP_REST_Controller.php:308
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: admin/vendor/cmb2/includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: admin/vendor/cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:115
+msgid "No terms"
+msgstr ""
+
+#: invoice-validator.php:102
+msgid "Invoce Manager"
+msgstr ""
+
+#: invoice-validator.php:151
+msgid "All settings has been saved"
+msgstr ""
+
+#: invoice-validator.php:152
+msgid "Some things is wrong please try again later"
+msgstr ""
+
+#: invoice-validator.php:263 invoice-validator.php:264
+msgid "Invoices"
+msgstr ""
+
+#: invoice-validator.php:270 invoice-validator.php:271
+#: invoice-validator.php:368 invoice-validator.php:1003
+msgid "Add Invoice"
+msgstr ""
+
+#: invoice-validator.php:366 invoice-validator.php:367
+#: invoice-validator.php:377 invoice-validator.php:933
+#: invoice-validator.php:1156
+msgid "Invoice"
+msgstr ""
+
+#: invoice-validator.php:369
+msgid "Add New Invoice"
+msgstr ""
+
+#: invoice-validator.php:370
+msgid "Edit Invoice"
+msgstr ""
+
+#: invoice-validator.php:371
+msgid "New Invoice"
+msgstr ""
+
+#: invoice-validator.php:372
+msgid "View Invoice"
+msgstr ""
+
+#: invoice-validator.php:373
+msgid "Search Invoice"
+msgstr ""
+
+#: invoice-validator.php:374
+msgid "No Invoice found"
+msgstr ""
+
+#: invoice-validator.php:375
+msgid "No Invoice found in Trash"
+msgstr ""
+
+#: invoice-validator.php:401
+msgid "Add Product"
+msgstr ""
+
+#: invoice-validator.php:402
+msgid "Add New Product"
+msgstr ""
+
+#: invoice-validator.php:403
+msgid "Edit Product"
+msgstr ""
+
+#: invoice-validator.php:404
+msgid "New Product"
+msgstr ""
+
+#: invoice-validator.php:405
+msgid "View Product"
+msgstr ""
+
+#: invoice-validator.php:406
+msgid "Search Product"
+msgstr ""
+
+#: invoice-validator.php:407
+msgid "No Product found"
+msgstr ""
+
+#: invoice-validator.php:408
+msgid "No Product found in Trash"
+msgstr ""
+
+#: invoice-validator.php:437
+msgid "back to dashboard"
+msgstr ""
+
+#: invoice-validator.php:470
+msgid " uploaded successfully."
+msgstr ""
+
+#: invoice-validator.php:476
+msgid ""
+"You have not permission to upload this file type, Please choose a file with ."
+"csv or .xlsx format"
+msgstr ""
+
+#: invoice-validator.php:482
+msgid "No file selected, Please choose a file with .csv or .xlsx format."
+msgstr ""
+
+#: invoice-validator.php:519
+msgid " imported successfully"
+msgstr ""
+
+#: invoice-validator.php:561
+msgid "Status"
+msgstr ""
+
+#: invoice-validator.php:562
+msgid "Invoice Creator"
+msgstr ""
+
+#: invoice-validator.php:564 invoice-validator.php:592
+msgid "Invoice Preview"
+msgstr ""
+
+#: invoice-validator.php:571
+msgid "Approved"
+msgstr ""
+
+#: invoice-validator.php:573
+msgid "Not Approved"
+msgstr ""
+
+#: invoice-validator.php:575
+msgid "For Review"
+msgstr ""
+
+#: invoice-validator.php:609
+msgid "post meta key is empty"
+msgstr ""
+
+#: invoice-validator.php:637
+msgid "Please wait..."
+msgstr ""
+
+#: invoice-validator.php:638
+msgid "Login was successfully, Redirecting..."
+msgstr ""
+
+#: invoice-validator.php:639
+msgid "Your username or password is wrong"
+msgstr ""
+
+#: invoice-validator.php:667
+msgid "Username"
+msgstr ""
+
+#: invoice-validator.php:671
+msgid "Password"
+msgstr ""
+
+#: invoice-validator.php:676
+msgid "Lost your password?"
+msgstr ""
+
+#: invoice-validator.php:684
+msgid "Welcome"
+msgstr ""
+
+#: invoice-validator.php:687
+msgid "Profile"
+msgstr ""
+
+#: invoice-validator.php:688
+msgid "Generate invoice"
+msgstr ""
+
+#: invoice-validator.php:689
+msgid "Logout"
+msgstr ""
+
+#: invoice-validator.php:773
+msgid "Your Invoices"
+msgstr ""
+
+#: invoice-validator.php:789 invoice-validator.php:1016
+msgid "Print"
+msgstr ""
+
+#: invoice-validator.php:799 invoice-validator.php:1026
+msgid "This invoice has been confirmed on"
+msgstr ""
+
+#: invoice-validator.php:800 invoice-validator.php:1027
+msgid "Mr/Mrs: "
+msgstr ""
+
+#: invoice-validator.php:801 invoice-validator.php:1028
+msgid "Customer National Code: "
+msgstr ""
+
+#: invoice-validator.php:802 invoice-validator.php:1029
+msgid "Invoice Items: "
+msgstr ""
+
+#: invoice-validator.php:805 invoice-validator.php:1032
+msgid "With Price:"
+msgstr ""
+
+#: invoice-validator.php:880 invoice-validator.php:1107
+msgid "Total: "
+msgstr ""
+
+#: invoice-validator.php:897 invoice-validator.php:1124
+msgid "The cost of shipping and insurance is borne by the customer"
+msgstr ""
+
+#: invoice-validator.php:901 invoice-validator.php:1128
+msgid "Total invoice sum: "
+msgstr ""
+
+#: invoice-validator.php:909 invoice-validator.php:1136
+msgid "The final price is "
+msgstr ""
+
+#: invoice-validator.php:909 invoice-validator.php:1136
+msgid " With calculating Tax and Value Added."
+msgstr ""
+
+#: invoice-validator.php:928 invoice-validator.php:1151
+msgid "Seller"
+msgstr ""
+
+#: invoice-validator.php:932 invoice-validator.php:1155
+msgid "Date:"
+msgstr ""
+
+#: invoice-validator.php:934 invoice-validator.php:1157
+msgid "Invoice No: "
+msgstr ""
+
+#: invoice-validator.php:938 invoice-validator.php:1161
+msgid "VAT Number: "
+msgstr ""
+
+#: invoice-validator.php:942 invoice-validator.php:956
+#: invoice-validator.php:1165 invoice-validator.php:1179
+msgid "Address: "
+msgstr ""
+
+#: invoice-validator.php:943 invoice-validator.php:960
+#: invoice-validator.php:1166 invoice-validator.php:1183
+msgid "Phone: "
+msgstr ""
+
+#: invoice-validator.php:949 invoice-validator.php:1172
+msgid "Customer"
+msgstr ""
+
+#: invoice-validator.php:953 invoice-validator.php:1176
+msgid "Name : "
+msgstr ""
+
+#: invoice-validator.php:954 invoice-validator.php:1177
+msgid "National Code : "
+msgstr ""
+
+#: invoice-validator.php:955 invoice-validator.php:1178
+msgid "VAT Number : "
+msgstr ""
+
+#: invoice-validator.php:959 invoice-validator.php:1182
+msgid "Postal code: "
+msgstr ""
+
+#: invoice-validator.php:968 invoice-validator.php:1191
+msgid "Row"
+msgstr ""
+
+#: invoice-validator.php:969 invoice-validator.php:1192
+msgid "SUK"
+msgstr ""
+
+#: invoice-validator.php:973 invoice-validator.php:1196
+msgid "Price"
+msgstr ""
+
+#: invoice-validator.php:974 invoice-validator.php:1197
+msgid "Discount %"
+msgstr ""
+
+#: invoice-validator.php:975 invoice-validator.php:1198
+msgid "Sum"
+msgstr ""
+
+#: invoice-validator.php:977 invoice-validator.php:1200
+msgid "Tax2"
+msgstr ""
+
+#: invoice-validator.php:978 invoice-validator.php:1201
+msgid "Final Price"
+msgstr ""
+
+#: invoice-validator.php:991 invoice-validator.php:1214
+msgid "Amount in words: "
+msgstr ""
+
+#: invoice-validator.php:991 invoice-validator.php:1214
+msgid "$"
+msgstr ""
+
+#: invoice-validator.php:1002
+msgid "You have not any invoice"
+msgstr ""
+
+#: invoice-validator.php:1265
+msgid "You have not permission. Please contact to administrator"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Description of the plugin/theme
+msgid "Invoice Validator"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "sinashamsizadeh.com"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sina Shamsizadeh"
+msgstr ""
